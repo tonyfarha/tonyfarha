@@ -94,6 +94,4 @@ In the meantime, you can check out the 'Just for Fun' mini projects I've worked 
     <a href="mailto:anton.farha@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anton.farha@gmail.com" alt="Gmail"></a>
 </p>
 
-![visitors](https://komarev.com/ghpvc/?username=tonyfarha&label=visitors&color=0e75b6&style=flat)
-
 *This README is a work in progress.*
