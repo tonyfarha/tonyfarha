@@ -83,6 +83,8 @@ I love crafting beautiful and functional websites and applications. With a passi
 ### 🚀 My Projects
 🚧 This section is under construction. 🚧
 
+In the meantime, you can check out the 'Just for Fun' mini projects I've worked on. You can find them under my repos.
+
 ### 💭 My Coding Philosophy
 "Write code as if the next person to maintain it is a violent psychopath who knows where you live."
 
