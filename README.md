@@ -1,6 +1,6 @@
 # Hi there, I'm Tony 👋
 
-## Web Developer based in Hamburg, Germany
+## Self-taught Web Developer based in Hamburg, Germany
 
 I love crafting beautiful and functional websites and applications. With a passion for technology and creativity, I enjoy turning ideas into reality using a range of web development tools and languages.
 
