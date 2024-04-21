@@ -19,7 +19,7 @@ I love crafting beautiful and functional websites and applications. With a passi
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
@@ -27,6 +27,9 @@ I love crafting beautiful and functional websites and applications. With a passi
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        	<img src="https://skillicons.dev/icons?i=next" alt="next.js" width="40" height="40" />
+   	 </a>
 	<a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> 
     </a>
@@ -37,7 +40,7 @@ I love crafting beautiful and functional websites and applications. With a passi
         <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" />
     </a>
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" />
     </a>
 	<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
@@ -55,7 +58,7 @@ I love crafting beautiful and functional websites and applications. With a passi
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40" />
     </a>
 	<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
@@ -84,9 +87,6 @@ I love crafting beautiful and functional websites and applications. With a passi
 🚧 This section is under construction. 🚧
 
 In the meantime, you can check out the 'Just for Fun' mini projects I've worked on. You can find them under my repos.
-
-### 💭 My Coding Philosophy
-"Write code as if the next person to maintain it is a violent psychopath who knows where you live."
 
 ###  📫 How to reach me:
 <p>
